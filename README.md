@@ -64,3 +64,9 @@ This repository is maintained using Git and GitHub.
 CampusNotes is a simple project for organizing and managing
 academic notes. This repository is used to practise Git and
 GitHub version control workflows.
+
+Add a section explaining:
+- Problem statement of CampusNotes.
+- Browser Local Storage and data persistence.
+- Technologies used and their roles.
+- Troubleshooting and setup requirements.
